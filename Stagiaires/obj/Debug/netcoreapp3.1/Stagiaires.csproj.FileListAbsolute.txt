@@ -1,0 +1,13 @@
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\bin\Debug\netcoreapp3.1\Stagiaires.exe
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\bin\Debug\netcoreapp3.1\Stagiaires.deps.json
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\bin\Debug\netcoreapp3.1\Stagiaires.runtimeconfig.json
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\bin\Debug\netcoreapp3.1\Stagiaires.runtimeconfig.dev.json
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\bin\Debug\netcoreapp3.1\Stagiaires.dll
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\bin\Debug\netcoreapp3.1\Stagiaires.pdb
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\obj\Debug\netcoreapp3.1\Stagiaires.csprojAssemblyReference.cache
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\obj\Debug\netcoreapp3.1\Stagiaires.AssemblyInfoInputs.cache
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\obj\Debug\netcoreapp3.1\Stagiaires.AssemblyInfo.cs
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\obj\Debug\netcoreapp3.1\Stagiaires.csproj.CoreCompileInputs.cache
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\obj\Debug\netcoreapp3.1\Stagiaires.dll
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\obj\Debug\netcoreapp3.1\Stagiaires.pdb
+C:\Users\emelallaoui\source\repos\TPSQLI\Stagiaires\obj\Debug\netcoreapp3.1\Stagiaires.genruntimeconfig.cache

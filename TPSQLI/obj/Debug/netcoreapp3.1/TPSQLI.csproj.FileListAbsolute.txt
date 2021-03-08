@@ -1,0 +1,13 @@
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\bin\Debug\netcoreapp3.1\TPSQLI.exe
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\bin\Debug\netcoreapp3.1\TPSQLI.deps.json
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\bin\Debug\netcoreapp3.1\TPSQLI.runtimeconfig.json
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\bin\Debug\netcoreapp3.1\TPSQLI.runtimeconfig.dev.json
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\bin\Debug\netcoreapp3.1\TPSQLI.dll
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\bin\Debug\netcoreapp3.1\TPSQLI.pdb
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\obj\Debug\netcoreapp3.1\TPSQLI.csprojAssemblyReference.cache
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\obj\Debug\netcoreapp3.1\TPSQLI.AssemblyInfoInputs.cache
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\obj\Debug\netcoreapp3.1\TPSQLI.AssemblyInfo.cs
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\obj\Debug\netcoreapp3.1\TPSQLI.csproj.CoreCompileInputs.cache
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\obj\Debug\netcoreapp3.1\TPSQLI.dll
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\obj\Debug\netcoreapp3.1\TPSQLI.pdb
+C:\Users\emelallaoui\source\repos\TPSQLI\TPSQLI\obj\Debug\netcoreapp3.1\TPSQLI.genruntimeconfig.cache
